@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166329730289",
+    "project_id": "briannamutali-ab58f",
+    "storage_bucket": "briannamutali-ab58f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166329730289:android:99104f524594108ae1d550",
+        "android_client_info": {
+          "package_name": "com.briannamutali.briannamutali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166329730289-j2ovhri0t0296o0ga7daeje7akqg3uvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyaotMX7vhOUn3bFAWKLIIzzXARM5fv7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166329730289-j2ovhri0t0296o0ga7daeje7akqg3uvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
